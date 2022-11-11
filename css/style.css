@@ -1,0 +1,29 @@
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background-color: rgba(241, 233, 233, 0.966);
+    font-family: Lato, sans-serif;
+    font-size: 125.5%;
+    font-stretch: 100%;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 500px;
+    width: 100%;
+    margin-top: 5%;
+    padding: 10px;
+}
+
+.adnotation {
+    text-align: center;
+    font-size: 12px;
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    color: hsl(0, 0%, 50%);
+}
