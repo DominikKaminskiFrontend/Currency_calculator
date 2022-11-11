@@ -9,7 +9,7 @@
 
 .form__convert {
     border: 2px solid #ccc;
-    background-color: rgb(36, 244, 244);
+    background-color: hsl(180, 90%, 20%);
     color: black;
     margin-top: 20px;
     padding: 5px;
@@ -31,7 +31,7 @@
 }
 
 .form__convert:active {
-    background-color: hsl(0, 100%, 60%);
+    background-color:  hsl(180, 100%, 40%);
 }
 
 .form_fieldset {
@@ -39,7 +39,7 @@
     padding: 20px;
     border-radius: 5px;
     margin: 20px 0;
-    box-shadow: 0px 0px 21px 0px #EF2D4A;
+    box-shadow: 0px 0px 21px 0px #1ab596;
     font-weight: 700;
 }
 
