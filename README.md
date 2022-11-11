@@ -2,7 +2,8 @@
   Simple Currency calculator for educational purposes.
   Page done in **educational purposes**,  
   It contains basic _html, css_ and _js_;  
-  During learning it will be more advenced.    
+  During learning it will be more advenced.   
+  https://dominikkaminskifrontend.github.io/Currency_calculator/index.html
   
 ## Version 1:   
   Page contains:  
