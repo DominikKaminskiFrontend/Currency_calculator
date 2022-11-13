@@ -21,5 +21,5 @@
   _**'Result= Wroten Amonut/Choosen Currency Rate*'**_  
   _*For now Rate is const, there is information about rates info and date of its reading_  
 
-  ## Preview 
-![]"../img/HomePage Preview.gif"
+  ## Preview   
+![](https://github.com/DominikKaminskiFrontend/Currency_calculator/blob/main/img/CurrencyExchange%20Preview.gif)
