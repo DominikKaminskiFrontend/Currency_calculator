@@ -1,5 +1,6 @@
 - [Currency_calculator](#currency_calculator)
   - [Version 1:](#version-1)
+  - [Preview](#preview)
 # Currency_calculator
   Simple Currency calculator for educational purposes.  
     https://dominikkaminskifrontend.github.io/Currency_calculator/index.html  
@@ -19,3 +20,6 @@
   In JS there is simple dividing thats looks like:  
   _**'Result= Wroten Amonut/Choosen Currency Rate*'**_  
   _*For now Rate is const, there is information about rates info and date of its reading_  
+
+  ## Preview 
+![]"../img/HomePage Preview.gif"
