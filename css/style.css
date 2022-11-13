@@ -18,7 +18,8 @@ html {
     width: 100%;
     margin-top: 2%;
     padding: 10px;
-}
+    background-image: url("../img/pej1.jpg");
+    }
 
 .adnotation {
     text-align: center;
