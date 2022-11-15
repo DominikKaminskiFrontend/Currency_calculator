@@ -1,10 +1,9 @@
 {
-    // Welcome Message
     const welcome = () => {
         console.log("Witaj na mojej stronie Kalulatora walut! Pamiętaj by upewnić się z kiedy są podane kursy walut!")
     }
 
-    const CalculateResult = (amount, currenncy) => {
+    const calculateResult = (amount, currenncy) => {
 
         // Currency Rates
         const rateEUR = 4.7146;
@@ -14,16 +13,16 @@
 
         switch (currenncy) {
             case "EUR":
-                return result = amount / rateEUR;
+                return amount / rateEUR;
 
             case "USD":
-                return result = amount / rateUSD;
+                return amount / rateUSD;
 
             case "GBP":
-                return result = amount / reteGBP;
+                return amount / reteGBP;
 
             case "CHF":
-                return result = amount / rateCHF;
+                return amount / rateCHF;
         }
     }
 
@@ -41,7 +40,7 @@
         const amount = +amountElement.value;
         const currency = currencyElement.value;
 
-        const result = CalculateResult(amount, currency);
+        const result = calculateResult(amount, currency);
 
         updateResultText(amount, result, currency);
     }
