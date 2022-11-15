@@ -1,3 +1,7 @@
+.form {
+    background-color: rgba(204, 204, 204, 0.7);
+}
+
 .form__input {
     border: 1px solid #ccc;
     padding: 10px;
@@ -9,7 +13,7 @@
 
 .form__convert {
     border: 2px solid #ccc;
-    background-color: hsl(180, 90%, 20%);
+    background-color: rgb(5, 97, 97);
     color: black;
     margin-top: 20px;
     padding: 5px;
@@ -31,7 +35,7 @@
 }
 
 .form__convert:active {
-    background-color:  hsl(180, 100%, 40%);
+    background-color: hsl(180, 100%, 40%);
 }
 
 .form_fieldset {
@@ -64,4 +68,3 @@
 .js-form__result {
     font-size: 40px;
 }
-
